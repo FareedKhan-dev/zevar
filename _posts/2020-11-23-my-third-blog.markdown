@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Is islami finance is the cure of modern world"
 date:   2020-11-22 20:32:48 +0500
 categories: jekyll update
 ---
