@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
  An awesome Islamic Finance Website for Learners which are beginners or pro peoples
 
 baseurl: "zevar" # the subpath of your site, e.g. /blog
-url: "https://fareedkhan-dev.me/zevar" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://zevar.live/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # For development
 # baseurl: "" # the subpath of your site, e.g. /blog
