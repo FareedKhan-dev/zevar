@@ -9,6 +9,18 @@
   <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
   {%- feed_meta -%}
   <!-- {%- if jekyll.environment == 'production' and site.google_analytics -%} -->
-  {%- include google-analytics.html -%}
+  <!-- {%- include google-analytics.html -%} -->
   <!-- {%- endif -%} -->
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-PHN71S0F4B"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'G-PHN71S0F4B');
+  </script>
 </head>
