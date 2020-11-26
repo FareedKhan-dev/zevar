@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Black Hole and the Trumpet of Islam"
-date:   2020-11-22 20:32:48 +0500
+date:   2020-11-26 11:30:48 +0500
 description: "The amazing link between Black Hole and Trumpet Mentioned in Islam"
 categories: islam world
 ---
