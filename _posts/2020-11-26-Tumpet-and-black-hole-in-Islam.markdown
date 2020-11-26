@@ -2,16 +2,18 @@
 layout: post
 title:  "Black Hole and the Trumpet of Islam"
 date:   2020-11-26 11:30:48 +0500
-description: "The amazing link between Black Hole and Trumpet Mentioned in Islam"
+description: "The amazing link between Black Hole and Trumpet mentioned in Islam"
 categories: islam world
 ---
 
 ***Did you know that if you fall in Black Hole, you are never coming out!***
 
+
 Before going deep down into the detailed explanation of how am I going to link the black hole with trumpet. You must keep in mind that this blog is just an assumption it can be possible or it may be totally wrong and this blog is written from my ***own point of view*** but not from the proven research based worked or any scholar perspective.
 
 ----------------------
 
+<br>
 #### So, What is a black hole and Why I am discussing it?
 
 ![First ever black hole image](https://miro.medium.com/max/700/1*mR6BBs7eDPAceywOjWx0uQ.jpeg "First ever black hole image")
@@ -35,8 +37,7 @@ While looking at ***Sahih Al-Bukhari (vol-8)*** there is an explanation that thi
 
 ------------
 
-
-
+<br>
 #### Conclusion
 
 Combine the information that we have gather until now!
